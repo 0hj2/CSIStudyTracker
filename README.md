@@ -1,6 +1,6 @@
 
 
-# 📚 CSIStudyTracker: WiFi CSI를 활용한 자동 학습 관리 시스템
+# 📚 CSIStudyTracker: CSI 기반 학습자 행동인식 및 순공부시간 자동측정 앱
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
