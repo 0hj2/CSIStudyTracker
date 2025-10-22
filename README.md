@@ -96,5 +96,5 @@ python3 process_pcap.py
 ## 📝 팀 회의 일지 및 진행사항
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion Logo" width="40" height="40">
 
-[캡스톤디자인 진행일지][(https://www.notion.so/Tab-2710e4bed74180a88974ed75fd11fd33?source=copy_link)]
+[**캡스톤디자인 진행일지**][(https://www.notion.so/Tab-2710e4bed74180a88974ed75fd11fd33?source=copy_link)]
 
